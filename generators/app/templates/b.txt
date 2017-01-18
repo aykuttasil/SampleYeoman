@@ -1,4 +1,0 @@
-
-Dosya B
-
-Değişken değer: <%= degiskenB %>
